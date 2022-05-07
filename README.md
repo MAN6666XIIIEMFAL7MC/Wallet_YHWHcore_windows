@@ -1,2 +1,3 @@
-# Wallet_YHWHcore_windows
+# Nucleo_YHWHcore
 Wallet para Sistema Operativo Windows
+
