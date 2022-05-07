@@ -1,3 +1,3 @@
 # Nucleo_YHWHcore
-Wallet para Sistema Operativo Windows
+Wallet code fuente
 
